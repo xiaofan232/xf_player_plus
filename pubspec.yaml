@@ -1,8 +1,8 @@
 name: xf_player_plus
 description: flutter video player with ui package.
 version: 0.0.1
-homepage:
-repository:
+homepage:https://github.com/xiaofan232/xf_player_plus
+repository:https://github.com/xiaofan232/xf_player_plus
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
